@@ -19,6 +19,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Views\SignOutView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\SettingsView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Views\LoginFacebookView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModels\BaseViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Views\" />

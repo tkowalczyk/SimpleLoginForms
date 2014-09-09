@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleLoginForms/Views/MainView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleLoginForms/ViewModels/BaseViewModel.cs">
     <Files>
-      <File FileName="SimpleLoginForms/Views/MainView.cs" Line="28" Column="28" />
+      <File FileName="SimpleLoginForms/ViewModels/BaseViewModel.cs" Line="29" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
