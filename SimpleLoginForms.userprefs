@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleLoginForms/ViewModels/BaseViewModel.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleLoginForms/Views/MainView.cs">
     <Files>
-      <File FileName="SimpleLoginForms/ViewModels/BaseViewModel.cs" Line="29" Column="29" />
+      <File FileName="SimpleLoginForms/ViewModels/BaseViewModel.cs" Line="16" Column="16" />
+      <File FileName="SimpleLoginForms/Views/MainView.cs" Line="4" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
